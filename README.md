@@ -1,4 +1,4 @@
-In file 'readme' there are sql code with output from MySql Workbench.
+In file 'Sqloutputs' there are sql code with output from MySql Workbench.
 
 sql.sql file has a code with all tasks.
 
